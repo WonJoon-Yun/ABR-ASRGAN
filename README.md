@@ -1,6 +1,6 @@
 # Delay Sensitive and Power Efficient Quality Control of Dynamic Video Streaming using Adaptive Super Resolution
 
-This research is under Major Revision and submitted to *IEEE Transactions on Mobile Computing*.
+This research is submitted to *IEEE Transactions on Mobile Computing* and is under *revision*.
 
 You can download youtube dataset on [here](https://www.dropbox.com/s/nsmu9v7fq2sgwue/youtube.zip?dl=0).
 
