@@ -2,7 +2,7 @@
 
 This research is under Major Revision and submitted to *IEEE Transactions on Mobile Computing*.
 
-You can download youtube dataset on [link](https://www.dropbox.com/s/nsmu9v7fq2sgwue/youtube.zip?dl=0)
+You can download youtube dataset on [here](https://www.dropbox.com/s/nsmu9v7fq2sgwue/youtube.zip?dl=0).
 
 Our codes will be published when our article is published on IEEE Xplore.
 
